@@ -508,56 +508,48 @@ export default function JiroRamenLP() {
       </section>
 
       {/* 商品に関する注意点セクション */}
-      <section className="py-20 bg-red-50">
+      <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-4xl font-bold text-red-800 mb-4">⚠️ 商品に関する注意点</h2>
+            <h2 className="text-4xl font-bold text-gray-800 mb-4">⚠️ 商品に関する注意点</h2>
             <p className="text-xl text-gray-600">ご購入前に必ずお読みください</p>
-            <div className="w-20 h-1 bg-red-600 mx-auto rounded-full mt-4"></div>
+            <div className="w-20 h-1 bg-gray-800 mx-auto rounded-full mt-4"></div>
           </div>
-          <div className="max-w-4xl mx-auto">
-            <div className="bg-white p-8 rounded-2xl shadow-xl border-2 border-red-200">
-              <div className="grid md:grid-cols-2 gap-6">
-                <div className="space-y-4">
-                  <div className="flex items-start gap-3 p-4 bg-red-50 rounded-xl">
-                    <span className="text-red-600 font-bold text-xl">⚠️</span>
-                    <div>
-                      <h4 className="font-bold text-red-800 mb-1">味の濃さについて</h4>
-                      <p className="text-gray-700 text-sm">
-                        二郎系ラーメンは非常に味の濃いラーメンです。塩辛さを感じる場合は、お湯や野菜を追加して調整してください。
-                      </p>
-                    </div>
-                  </div>
-                  <div className="flex items-start gap-3 p-4 bg-orange-50 rounded-xl">
-                    <span className="text-orange-600 font-bold text-xl">🧄</span>
-                    <div>
-                      <h4 className="font-bold text-orange-800 mb-1">風味の強さについて</h4>
-                      <p className="text-gray-700 text-sm">
-                        脂やニンニクの風味が強めの商品です。苦手な方はご購入をお控えください。
-                      </p>
-                    </div>
-                  </div>
-                </div>
-                <div className="space-y-4">
-                  <div className="flex items-start gap-3 p-4 bg-blue-50 rounded-xl">
-                    <span className="text-blue-600 font-bold text-xl">🥩</span>
-                    <div>
-                      <h4 className="font-bold text-blue-800 mb-1">商品バリエーション</h4>
-                      <p className="text-gray-700 text-sm">
-                        チャーシュー付き・チャーシューなしの2種類があります。ご購入前に商品内容をご確認ください。
-                      </p>
-                    </div>
-                  </div>
-                  <div className="flex items-start gap-3 p-4 bg-green-50 rounded-xl">
-                    <span className="text-green-600 font-bold text-xl">🥬</span>
-                    <div>
-                      <h4 className="font-bold text-green-800 mb-1">トッピングについて</h4>
-                      <p className="text-gray-700 text-sm">
-                        もやしなどのトッピング具材は付属しておりません。お好みでご用意ください。
-                      </p>
-                    </div>
-                  </div>
-                </div>
+          <div className="max-w-3xl mx-auto space-y-4">
+            <div className="flex items-start gap-3 p-4 bg-white border rounded-lg">
+              <span className="text-gray-800 text-xl">⚠️</span>
+              <div>
+                <h4 className="font-semibold text-gray-800 mb-1">味の濃さについて</h4>
+                <p className="text-gray-800 text-sm">
+                  二郎系ラーメンは非常に味の濃いラーメンです。塩辛さを感じる場合は、お湯や野菜を追加して調整してください。
+                </p>
+              </div>
+            </div>
+            <div className="flex items-start gap-3 p-4 bg-white border rounded-lg">
+              <span className="text-gray-800 text-xl">🧄</span>
+              <div>
+                <h4 className="font-semibold text-gray-800 mb-1">風味の強さについて</h4>
+                <p className="text-gray-800 text-sm">
+                  脂やニンニクの風味が強めの商品です。苦手な方はご購入をお控えください。
+                </p>
+              </div>
+            </div>
+            <div className="flex items-start gap-3 p-4 bg-white border rounded-lg">
+              <span className="text-gray-800 text-xl">🥩</span>
+              <div>
+                <h4 className="font-semibold text-gray-800 mb-1">商品バリエーション</h4>
+                <p className="text-gray-800 text-sm">
+                  チャーシュー付き・チャーシューなしの2種類があります。ご購入前に商品内容をご確認ください。
+                </p>
+              </div>
+            </div>
+            <div className="flex items-start gap-3 p-4 bg-white border rounded-lg">
+              <span className="text-gray-800 text-xl">🥬</span>
+              <div>
+                <h4 className="font-semibold text-gray-800 mb-1">トッピングについて</h4>
+                <p className="text-gray-800 text-sm">
+                  もやしなどのトッピング具材は付属しておりません。お好みでご用意ください。
+                </p>
               </div>
             </div>
           </div>
