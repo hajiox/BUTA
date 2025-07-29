@@ -84,30 +84,30 @@ export default function JiroRamenLP() {
   return (
     <>
       {/* 信頼指標バー */}
-      <section className="bg-gradient-to-r from-red-600 via-red-700 to-red-800 text-white py-4 shadow-lg">
+      <section className="bg-red-700 text-white py-4 shadow">
         <div className="container mx-auto px-4">
           <div className="flex flex-col md:flex-row items-center justify-center gap-6 text-center">
-            <div className="flex items-center gap-3 bg-white/10 px-4 py-2 rounded-full backdrop-blur-sm">
+            <div className="flex items-center gap-3 bg-white/20 px-4 py-2 rounded-full backdrop-blur-sm">
               <Star className="w-6 h-6 fill-yellow-400 text-yellow-400" />
               <span className="font-bold text-lg">楽天★4.56点</span>
             </div>
-            <div className="flex items-center gap-3 bg-white/10 px-4 py-2 rounded-full backdrop-blur-sm">
+            <div className="flex items-center gap-3 bg-white/20 px-4 py-2 rounded-full backdrop-blur-sm">
               <Star className="w-6 h-6 fill-yellow-400 text-yellow-400" />
               <span className="font-bold text-lg">Yahoo★4.46点</span>
             </div>
-            <div className="flex items-center gap-2 bg-yellow-500 text-black px-4 py-2 rounded-full font-bold">
+            <div className="flex items-center gap-2 bg-yellow-400 text-black px-4 py-2 rounded-full font-bold">
               <Award className="w-5 h-5" />
               <span>高評価獲得中</span>
             </div>
           </div>
-          <div className="text-center mt-3 text-yellow-100 font-medium">
+          <div className="text-center mt-3 text-yellow-200 font-medium">
             二郎系チャーシューで圧倒的評価を頂いている会津ブランド館が作りました
           </div>
         </div>
       </section>
 
       {/* ランキング1位画像 */}
-      <section className="py-12 bg-gradient-to-b from-yellow-50 to-orange-50">
+      <section className="py-12 bg-gray-100">
         <div className="container mx-auto px-4">
           <div className="text-center mb-8">
             <h2 className="text-3xl font-bold text-gray-800 mb-2">🏆 売上ランキング1位獲得 🏆</h2>
@@ -146,7 +146,7 @@ export default function JiroRamenLP() {
             className="object-cover object-center"
             priority
           />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-black/40 to-transparent" />
           <div className="absolute inset-0 flex items-end justify-center pb-16 md:pb-24">
             <div className="text-center text-white max-w-4xl mx-auto px-4">
               <h1 className="text-5xl md:text-8xl font-black mb-6 text-shadow-lg">
@@ -163,12 +163,12 @@ export default function JiroRamenLP() {
       </section>
 
       {/* メインコピーセクション */}
-      <section className="py-20 bg-gradient-to-b from-white to-gray-50">
+      <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="max-w-5xl mx-auto">
             <div className="text-center mb-12">
               <h2 className="text-4xl font-bold text-gray-800 mb-4">なぜ、こんなにも愛されるのか？</h2>
-              <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-yellow-500 mx-auto rounded-full"></div>
+              <div className="w-20 h-1 bg-red-600 mx-auto rounded-full"></div>
             </div>
 
             <div className="grid md:grid-cols-3 gap-8 mb-12">
@@ -196,7 +196,7 @@ export default function JiroRamenLP() {
               <p>
                 熱狂的なファンも多く、お店はいつも沢山のお客様で賑わっています。ただ「二郎を食べたい」と思っていても実店は女性や家族連れでは少々入りにくい雰囲気もあり「気になっているけど食べたことがない」という方も多いと思います。
               </p>
-              <div className="bg-gradient-to-r from-red-50 to-yellow-50 p-6 rounded-xl border-l-4 border-red-500">
+              <div className="bg-red-50 p-6 rounded-xl border-l-4 border-red-500">
                 <p className="text-xl font-semibold text-red-800">
                   今回の商品はそんな皆様にご自宅で「二郎的なラーメン」を味わってもらいたいという想いで開発をいたしました。自宅だからこそゆっくりと安心してお楽しみ頂ける"二郎インスパイア"を是非お楽しみください。
                 </p>
@@ -207,12 +207,12 @@ export default function JiroRamenLP() {
       </section>
 
       {/* 美味しさの魅力セクション */}
-      <section className="py-20 bg-gradient-to-b from-gray-50 to-white">
+      <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-800 mb-4">美味しさの魅力</h2>
             <p className="text-xl text-gray-600">職人のこだわりが生み出す本格の味</p>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-yellow-500 mx-auto rounded-full mt-4"></div>
+            <div className="w-20 h-1 bg-red-600 mx-auto rounded-full mt-4"></div>
           </div>
 
           <div className="max-w-7xl mx-auto space-y-20">
@@ -300,7 +300,7 @@ export default function JiroRamenLP() {
           {/* メイン商品カード */}
           <div className="max-w-5xl mx-auto mb-20">
             <h2 className="text-4xl font-bold text-center mb-12 text-gray-800">パーフェクトラーメン二郎インスパイア</h2>
-            <Card className="overflow-hidden shadow-2xl border-2 border-gray-100">
+            <Card className="overflow-hidden shadow-lg border border-gray-100 rounded-xl">
               <div className="grid md:grid-cols-2">
                 <div className="relative aspect-square">
                   <Image
@@ -329,7 +329,7 @@ export default function JiroRamenLP() {
                     <span className="text-4xl font-bold text-red-600">3,980円</span>
                     <span className="ml-2 text-gray-500">(税込・送料無料)</span>
                   </div>
-                  <Button size="lg" className="w-full bg-red-600 hover:bg-red-700 text-lg font-bold py-6">
+                  <Button size="lg" className="w-full bg-red-700 hover:bg-red-800 text-lg font-bold py-6">
                     今すぐ購入する
                   </Button>
                 </div>
@@ -380,12 +380,12 @@ export default function JiroRamenLP() {
       </section>
 
       {/* お客様の声セクション */}
-      <section id="reviews" className="py-20 bg-gradient-to-b from-white to-gray-50">
+      <section id="reviews" className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-800 mb-4">お客様の声</h2>
             <p className="text-xl text-gray-600 mb-4">実際のECサイトに投稿されているレビューを抜粋</p>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-yellow-500 mx-auto rounded-full"></div>
+            <div className="w-20 h-1 bg-red-600 mx-auto rounded-full"></div>
           </div>
 
           {/* ラーメンフリークの皆様 */}
@@ -508,12 +508,12 @@ export default function JiroRamenLP() {
       </section>
 
       {/* 商品に関する注意点セクション */}
-      <section className="py-20 bg-gradient-to-b from-gray-50 to-red-50">
+      <section className="py-20 bg-red-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
             <h2 className="text-4xl font-bold text-red-800 mb-4">⚠️ 商品に関する注意点</h2>
             <p className="text-xl text-gray-600">ご購入前に必ずお読みください</p>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-yellow-500 mx-auto rounded-full mt-4"></div>
+            <div className="w-20 h-1 bg-red-600 mx-auto rounded-full mt-4"></div>
           </div>
           <div className="max-w-4xl mx-auto">
             <div className="bg-white p-8 rounded-2xl shadow-xl border-2 border-red-200">
@@ -581,12 +581,12 @@ export default function JiroRamenLP() {
       </section>
 
       {/* ご購入セクション */}
-      <section className="py-20 bg-gradient-to-b from-white to-gray-100">
+      <section className="py-20 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-4xl font-bold text-gray-800 mb-4">🛒 ご購入はこちらから</h2>
             <p className="text-xl text-gray-600">お好みのショッピングサイトでお買い求めください</p>
-            <div className="w-24 h-1 bg-gradient-to-r from-red-500 to-yellow-500 mx-auto rounded-full mt-4"></div>
+            <div className="w-20 h-1 bg-red-600 mx-auto rounded-full mt-4"></div>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8 max-w-6xl mx-auto">
             {/* Yahoo!ショッピング */}
