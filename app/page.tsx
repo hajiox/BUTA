@@ -2,8 +2,10 @@ import type { Metadata } from "next"
 import JiroInspireLP from "../jiro-inspire-lp"
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://your-domain.com"), // 本番環境のドメインに置き換えてください
   title: {
     default: "【公式】パーフェクトラーメンBUTA【S】｜自宅で本格二郎系インスパイアラーメン通販・お取り寄せ",
+    template: "%s | 会津ブランド館",
   },
   description:
     "ご自宅で人気の二郎系インスパイアラーメンを！日清製粉オーション麺と濃厚豚骨スープ、極厚チャーシューで再現。マニアも納得の本格派。2食セット1,250円から全国送料無料でお届け。",
@@ -21,11 +23,11 @@ export const metadata: Metadata = {
     title: "パーフェクトラーメンBUTA【S】｜自宅で味わう本格二郎系インスパイアラーメン",
     description:
       "ご自宅で人気の二郎系インスパイアラーメンを！日清製粉オーション麺と濃厚豚骨スープ、極厚チャーシューで再現。マニアも納得の本格派。2食セット1,250円から全国送料無料でお届け。",
-    url: "https://your-domain.com",
+    url: "https://your-domain.com", // 本番環境のドメインに置き換えてください
     siteName: "会津ブランド館",
     images: [
       {
-        url: "/images/ogp-ramen.jpg",
+        url: "/images/ogp-ramen.jpg", // publicディレクトリからの相対パス
         width: 1200,
         height: 630,
         alt: "極厚チャーシュー、もやし、ニンニクが乗った二郎系インスパイアラーメン",
@@ -44,7 +46,7 @@ export const metadata: Metadata = {
       "ご自宅で人気の二郎系インスパイアラーメンを！日清製粉オーション麺と濃厚豚骨スープ、極厚チャーシューで再現。マニアも納得の本格派。2食セット1,250円から全国送料無料でお届け。",
     images: [
       {
-        url: "/images/ogp-ramen.jpg",
+        url: "/images/ogp-ramen.jpg", // publicディレクトリからの相対パス
         alt: "極厚チャーシュー、もやし、ニンニクが乗った二郎系インスパイアラーメン",
         width: 1200,
         height: 630,
@@ -65,10 +67,10 @@ export const metadata: Metadata = {
     },
   },
   verification: {
-    google: "your-google-verification-code",
+    google: "your-google-verification-code", // 必要に応じて設定してください
   },
   alternates: {
-    canonical: "https://your-domain.com",
+    canonical: "https://your-domain.com", // 本番環境のドメインに置き換えてください
   },
   category: "food",
   classification: "ラーメン通販",
