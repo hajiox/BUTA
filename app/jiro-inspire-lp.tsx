@@ -227,6 +227,7 @@ export default function JiroInspireLP() {
 
         {/* 美味しさの魅力セクション - スープ */}
         <section className="py-16 bg-gray-50">
+          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">美味しさの魅力をご紹介</h2>
           <div className="container mx-auto px-4">
             <div className="max-w-6xl mx-auto">
               <div className="grid md:grid-cols-2 gap-12 items-center">
@@ -542,7 +543,7 @@ export default function JiroInspireLP() {
               {/* Yahoo!ショッピング */}
               <div className="bg-[#ffdddd] p-6 rounded-lg">
                 <Link
-                  href="https://store.shopping.yahoo.co.jp/aizubrandhall/"
+                  href="https://store.shopping.yahoo.co.jp/aizubrandhall/15aaaebc295.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -556,6 +557,10 @@ export default function JiroInspireLP() {
                       className="w-full h-auto"
                     />
                   </div>
+                  <p className="text-sm text-center mb-4">PayPayポイントが貯まる使えるショッピングモールはこちら</p>
+                  <p className="text-sm text-center text-red-600 font-bold">
+                    初めて当店をご利用のお客様に300円クーポン進呈中！
+                  </p>
                 </Link>
                 <h4 className="font-bold mb-2 text-center">Yahoo!ショッピング</h4>
                 <p className="text-sm text-center mb-4">PayPayポイントが貯まる使えるショッピングモールはこちら</p>
@@ -564,7 +569,7 @@ export default function JiroInspireLP() {
               {/* 楽天市場 */}
               <div className="bg-[#deeeff] p-6 rounded-lg">
                 <Link
-                  href="https://item.rakuten.co.jp/aizubrandhall/"
+                  href="https://item.rakuten.co.jp/aizubrandhall/c/0000000028/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -578,6 +583,10 @@ export default function JiroInspireLP() {
                       className="w-full h-auto"
                     />
                   </div>
+                  <p className="text-sm text-center mb-4">楽天ポイントが使える国内最大級のショッピングモールはこちら</p>
+                  <p className="text-sm text-center text-red-600 font-bold">
+                    初めて当店をご利用のお客様に300円クーポン進呈中！
+                  </p>
                 </Link>
                 <h4 className="font-bold mb-2 text-center">楽天市場</h4>
                 <p className="text-sm text-center mb-4">楽天ポイントが使える国内最大級のショッピングモールはこちら</p>
@@ -586,7 +595,7 @@ export default function JiroInspireLP() {
               {/* Amazon */}
               <div className="bg-[#e8ffdd] p-6 rounded-lg">
                 <Link
-                  href="https://www.amazon.co.jp/stores/aizubrandhall"
+                  href="https://www.amazon.co.jp/stores/page/5CB4BEF8-6B7E-4574-AA5A-CD874F82A3BE"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
