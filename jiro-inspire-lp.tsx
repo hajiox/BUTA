@@ -16,10 +16,10 @@ export default function JiroInspireLP() {
       comment:
         "早いもので、二郎歴40年を超えた今でも、夜な夜なインスパイアぽい品を見つけては取り寄せているメタボ一歩手前の者だが、本品は多少麺がツルッとしており、なんと言ってもスープが作り込んでありとても美味かった。個人的にはパサついてある方が好みだが、これはこれで中々の逸品だ。",
       rating: 4,
-      name: "お客様",
+      name: "ラーメンフリーク",
       category: "ラーメンフリークの皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-3xflOgFdlK83CkQ8uDn5oNxc4rsVLN.jpeg", // 男性イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-pH659VvFb7HK4ud6RzC0Saw0tWx30u.jpeg", // 男性イラスト
     },
     {
       source: "楽天",
@@ -29,7 +29,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "ラーメンフリークの皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-3xflOgFdlK83CkQ8uDn5oNxc4rsVLN.jpeg", // 男性イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-pH659VvFb7HK4ud6RzC0Saw0tWx30u.jpeg", // 男性イラスト
     },
     {
       source: "Yahoo",
@@ -39,7 +39,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "ラーメンフリークの皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-3xflOgFdlK83CkQ8uDn5oNxc4rsVLN.jpeg", // 男性イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-pH659VvFb7HK4ud6RzC0Saw0tWx30u.jpeg", // 男性イラスト
     },
     {
       source: "Yahoo",
@@ -49,7 +49,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-rE2uyWbKoykqZmQJQwPwAbmcIZX1Gh.png", // 家族イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
     },
     {
       source: "楽天",
@@ -59,7 +59,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-rE2uyWbKoykqZmQJQwPwAbmcIZX1Gh.png", // 家族イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -69,7 +69,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-rE2uyWbKoykqZmQJQwPwAbmcIZX1Gh.png", // 家族イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
     },
     {
       source: "楽天",
@@ -79,7 +79,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-rE2uyWbKoykqZmQJQwPwAbmcIZX1Gh.png", // 家族イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -89,7 +89,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "女性でご購入頂いた皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%A5%B3%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-kX8gayTcYk0YRJKZxnpHUyaXvgKLLX.jpeg", // 女性イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%A5%B3%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-AoQe3Vs1cMI0ioKCJqeZVg5UDoK5NR.jpeg", // 女性イラスト
     },
     {
       source: "楽天",
@@ -99,7 +99,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "女性でご購入頂いた皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%A5%B3%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-kX8gayTcYk0YRJKZxnpHUyaXvgKLLX.jpeg", // 女性イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%A5%B3%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-AoQe3Vs1cMI0ioKCJqeZVg5UDoK5NR.jpeg", // 女性イラスト
     },
   ]
 
@@ -277,6 +277,7 @@ export default function JiroInspireLP() {
 
         {/* 美味しさの魅力セクション - スープ */}
         <section className="py-16 bg-gray-50">
+          <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">美味しさの魅力をご紹介</h2>
           <div className="container mx-auto px-4">
             <div className="max-w-6xl mx-auto">
               <div className="grid md:grid-cols-2 gap-12 items-center">
@@ -515,7 +516,7 @@ export default function JiroInspireLP() {
           <div className="container mx-auto px-4">
             <div className="max-w-4xl mx-auto">
               <h2 className="text-2xl font-bold text-center mb-8 text-white">商品に関する注意点</h2>
-              <div className="space-y-4 text-lg text-gray-300">
+              <div className="space-y-4 text-lg text-white">
                 {" "}
                 {/* text-whiteを明示的に指定 */}
                 <p>
@@ -540,7 +541,7 @@ export default function JiroInspireLP() {
               {/* Yahoo!ショッピング */}
               <div className="bg-[#ffdddd] p-6 rounded-lg">
                 <Link
-                  href="https://store.shopping.yahoo.co.jp/aizubrandhall/"
+                  href="https://store.shopping.yahoo.co.jp/aizubrandhall/15aaaebc295.html"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -554,15 +555,18 @@ export default function JiroInspireLP() {
                       className="w-full h-auto"
                     />
                   </div>
+                  <h4 className="font-bold mb-2 text-center">Yahoo!ショッピング</h4>
+                  <p className="text-sm text-center mb-4">PayPayポイントが貯まる使えるショッピングモールはこちら</p>
+                  <p className="text-sm text-center text-red-600 font-bold">
+                    初めて当店をご利用のお客様に300円クーポン進呈中！
+                  </p>
                 </Link>
-                <h4 className="font-bold mb-2 text-center">Yahoo!ショッピング</h4>
-                <p className="text-sm text-center mb-4">PayPayポイントが貯まる使えるショッピングモールはこちら</p>
               </div>
 
               {/* 楽天市場 */}
               <div className="bg-[#deeeff] p-6 rounded-lg">
                 <Link
-                  href="https://item.rakuten.co.jp/aizubrandhall/"
+                  href="https://item.rakuten.co.jp/aizubrandhall/c/0000000028/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"
@@ -576,15 +580,18 @@ export default function JiroInspireLP() {
                       className="w-full h-auto"
                     />
                   </div>
+                  <h4 className="font-bold mb-2 text-center">楽天市場</h4>
+                  <p className="text-sm text-center mb-4">楽天ポイントが使える国内最大級のショッピングモールはこちら</p>
+                  <p className="text-sm text-center text-red-600 font-bold">
+                    初めて当店をご利用のお客様に300円クーポン進呈中！
+                  </p>
                 </Link>
-                <h4 className="font-bold mb-2 text-center">楽天市場</h4>
-                <p className="text-sm text-center mb-4">楽天ポイントが使える国内最大級のショッピングモールはこちら</p>
               </div>
 
               {/* Amazon */}
               <div className="bg-[#e8ffdd] p-6 rounded-lg">
                 <Link
-                  href="https://www.amazon.co.jp/stores/aizubrandhall"
+                  href="https://www.amazon.co.jp/stores/page/5CB4BEF8-6B7E-4574-AA5A-CD874F82A3BE"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block"

@@ -79,7 +79,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-x2gVegn9nceBY4aftT9fgFc1AgrGc1.png", // 家族イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-x2gVegn9nceBY4aftT9fgFc1AgrGc1.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -225,6 +225,56 @@ export default function JiroInspireLP() {
           </div>
         </section>
 
+        {/* 信頼指標バー */}
+        <section className="bg-pink-50 py-8">
+          <div className="container mx-auto px-4">
+            <div className="flex flex-col md:flex-row items-center justify-center gap-6 text-center mb-4">
+              <div className="flex items-center gap-2">
+                <span className="text-base font-bold">楽天レビュー</span>
+                <div className="flex items-center">
+                  {[...Array(4)].map((_, i) => (
+                    <Star key={i} className="w-5 h-5 fill-yellow-400 text-yellow-400" />
+                  ))}
+                  <Star className="w-5 h-5 fill-yellow-400 text-yellow-400" style={{ clipPath: "inset(0 40% 0 0)" }} />
+                </div>
+                <span className="text-base font-bold">平均4.56点</span>
+              </div>
+              <span className="text-gray-400 text-xl hidden md:block">／</span>
+              <div className="flex items-center gap-2">
+                <span className="text-base font-bold">Yahooショッピングレビュー</span>
+                <div className="flex items-center">
+                  {[...Array(4)].map((_, i) => (
+                    <Star key={i} className="w-5 h-5 fill-yellow-400 text-yellow-400" />
+                  ))}
+                  <Star className="w-5 h-5 fill-yellow-400 text-yellow-400" style={{ clipPath: "inset(0 50% 0 0)" }} />
+                </div>
+                <span className="text-base font-bold">平均4.46点</span>
+              </div>
+            </div>
+            <div className="text-center mb-8">
+              <p className="text-lg font-bold text-red-600">
+                ご好評頂いております。二郎系チャーシューで圧倒的評価を頂いている会津ブランド館が作りました。
+              </p>
+            </div>
+            <div className="flex flex-col md:flex-row justify-center items-center gap-8">
+              <Image
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%EF%BC%91%E4%BD%8D.jpg-QWSOBDSb48aW2Nf6mgSvpE4RFSNpfT.jpeg"
+                alt="楽天ランキング1位獲得"
+                width={400}
+                height={132}
+                className="w-96 h-auto"
+              />
+              <Image
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Yahoo%EF%BC%91%E4%BD%8D.jpg-RRp1ZXluFZvl9jCtzbAJOzWSyG1sLn.jpeg"
+                alt="Yahoo!ショッピングカテゴリランキング1位獲得"
+                width={400}
+                height={132}
+                className="w-96 h-auto"
+              />
+            </div>
+          </div>
+        </section>
+
         {/* 美味しさの魅力セクション - スープ */}
         <section className="py-16 bg-gray-50">
           <h2 className="text-3xl font-bold text-center mb-12 text-gray-900">美味しさの魅力をご紹介</h2>
@@ -326,6 +376,32 @@ export default function JiroInspireLP() {
                       これからも、<strong>妥協のない"本物"</strong>をあなたにお届けすることを、お約束します。
                     </p>
                   </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        {/* 送料無料・即日配送セクション */}
+        <section className="py-16 bg-gray-50">
+          <div className="container mx-auto px-4">
+            <div className="max-w-4xl mx-auto">
+              <div className="grid md:grid-cols-2 gap-8 items-center">
+                <div className="relative aspect-[3/1] w-full">
+                  <Image
+                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E9%80%81%E6%96%99%E7%84%A1%E6%96%99-01.jpg-7w5x12TQMEU3igAn9Jw8vNhpX1R7VT.jpeg"
+                    alt="送料無料"
+                    fill
+                    className="object-contain"
+                  />
+                </div>
+                <div className="relative aspect-[3/1] w-full">
+                  <Image
+                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%8D%B3%E6%97%A5%E7%99%BA%E9%80%81-01.jpg-gvsHqMx1KYEAFJpKHnRUGkVqb2MckI.jpeg"
+                    alt="即日配送"
+                    fill
+                    className="object-contain"
+                  />
                 </div>
               </div>
             </div>
@@ -457,84 +533,6 @@ export default function JiroInspireLP() {
           </div>
         </section>
 
-        {/* 信頼指標バー */}
-        <section className="bg-pink-100 py-4">
-          {" "}
-          {/* bg-pink-100を適用 */}
-          <div className="container mx-auto px-4">
-            <div className="flex flex-col md:flex-row items-center justify-center gap-4 text-center">
-              <div className="flex items-center gap-2">
-                <span className="text-sm font-bold">楽天レビュー</span>
-                <div className="flex items-center">
-                  {[...Array(4)].map((_, i) => (
-                    <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                  ))}
-                  <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" style={{ clipPath: "inset(0 40% 0 0)" }} />
-                </div>
-                <span className="text-sm font-bold">平均4.56点</span>
-              </div>
-              <span className="text-gray-400">／</span>
-              <div className="flex items-center gap-2">
-                <span className="text-sm font-bold">Yahooショッピングレビュー</span>
-                <div className="flex items-center">
-                  {[...Array(4)].map((_, i) => (
-                    <Star key={i} className="w-4 h-4 fill-yellow-400 text-yellow-400" />
-                  ))}
-                  <Star className="w-4 h-4 fill-yellow-400 text-yellow-400" style={{ clipPath: "inset(0 50% 0 0)" }} />
-                </div>
-                <span className="text-sm font-bold">平均4.46点</span>
-              </div>
-            </div>
-            <div className="text-center mt-2">
-              <p className="text-sm font-bold text-red-600">
-                ご好評頂いております。二郎系チャーシューで圧倒的評価を頂いている会津ブランド館が作りました。
-              </p>
-            </div>
-            <div className="flex justify-center gap-4 mt-4">
-              <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%EF%BC%91%E4%BD%8D.jpg-QWSOBDSb48aW2Nf6mgSvpE4RFSNpfT.jpeg"
-                alt="楽天ランキング1位獲得"
-                width={120} // 画像サイズを調整
-                height={80} // 画像サイズを調整
-                className="h-auto w-auto max-h-[80px]" // max-hも調整
-              />
-              <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Yahoo%EF%BC%91%E4%BD%8D.jpg-RRp1ZXluFZvl9jCtzbAJOzWSyG1sLn.jpeg"
-                alt="Yahoo!ショッピングカテゴリランキング1位獲得"
-                width={120} // 画像サイズを調整
-                height={80} // 画像サイズを調整
-                className="h-auto w-auto max-h-[80px]" // max-hも調整
-              />
-            </div>
-          </div>
-        </section>
-
-        {/* 送料無料・即日配送セクション */}
-        <section className="py-16 bg-gray-50">
-          <div className="container mx-auto px-4">
-            <div className="max-w-4xl mx-auto">
-              <div className="grid md:grid-cols-2 gap-8 items-center">
-                <div className="relative aspect-[3/1] w-full">
-                  <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E9%80%81%E6%96%99%E7%84%A1%E6%96%99-01.jpg-7w5x12TQMEU3igAn9Jw8vNhpX1R7VT.jpeg"
-                    alt="送料無料"
-                    fill
-                    className="object-contain"
-                  />
-                </div>
-                <div className="relative aspect-[3/1] w-full">
-                  <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%8D%B3%E6%97%A5%E7%99%BA%E9%80%81-01.jpg-gvsHqMx1KYEAFJpKHnRUGkVqb2MckI.jpeg"
-                    alt="即日配送"
-                    fill
-                    className="object-contain"
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-
         {/* ご購入セクション */}
         <section className="py-16 bg-white">
           <div className="container mx-auto px-4">
@@ -557,13 +555,12 @@ export default function JiroInspireLP() {
                       className="w-full h-auto"
                     />
                   </div>
+                  <h4 className="font-bold mb-2 text-center">Yahoo!ショッピング</h4>
                   <p className="text-sm text-center mb-4">PayPayポイントが貯まる使えるショッピングモールはこちら</p>
                   <p className="text-sm text-center text-red-600 font-bold">
                     初めて当店をご利用のお客様に300円クーポン進呈中！
                   </p>
                 </Link>
-                <h4 className="font-bold mb-2 text-center">Yahoo!ショッピング</h4>
-                <p className="text-sm text-center mb-4">PayPayポイントが貯まる使えるショッピングモールはこちら</p>
               </div>
 
               {/* 楽天市場 */}
@@ -583,13 +580,12 @@ export default function JiroInspireLP() {
                       className="w-full h-auto"
                     />
                   </div>
+                  <h4 className="font-bold mb-2 text-center">楽天市場</h4>
                   <p className="text-sm text-center mb-4">楽天ポイントが使える国内最大級のショッピングモールはこちら</p>
                   <p className="text-sm text-center text-red-600 font-bold">
                     初めて当店をご利用のお客様に300円クーポン進呈中！
                   </p>
                 </Link>
-                <h4 className="font-bold mb-2 text-center">楽天市場</h4>
-                <p className="text-sm text-center mb-4">楽天ポイントが使える国内最大級のショッピングモールはこちら</p>
               </div>
 
               {/* Amazon */}
