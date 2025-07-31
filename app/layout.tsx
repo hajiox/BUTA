@@ -3,7 +3,7 @@ import type { Metadata } from "next"
 import { GeistSans } from "geist/font/sans"
 import { GeistMono } from "geist/font/mono"
 import "./globals.css"
-import SharedLayout from "@/components/shared-layout"
+// import SharedLayout from "@/components/shared-layout" // Removed SharedLayout import
 
 import { Inter } from "next/font/google"
 
@@ -15,11 +15,11 @@ export const metadata: Metadata = {
     default: "会津ブランド館｜福島県会津の特産品・グルメ通販",
     template: "%s | 会津ブランド館",
   },
-  description: "福島県会津の特産品・グルメを全国にお届け。本格二郎系ラーメンをはじめとした会津の味をお楽しみください。",
+  description: "福島県会津の特産品・グルメを全国にお届け。本格喜多方ラーメンをはじめとした会津の味をお楽しみください。",
   generator: "Next.js",
   applicationName: "会津ブランド館",
   referrer: "origin-when-cross-origin",
-  keywords: ["会津", "福島", "特産品", "グルメ", "通販", "二郎系ラーメン", "二郎インスパイア"],
+  keywords: ["会津", "福島", "特産品", "グルメ", "通販", "喜多方ラーメン"],
   authors: [{ name: "会津ブランド館", url: "https://your-domain.com" }],
   creator: "会津ブランド館",
   publisher: "会津ブランド館",
@@ -61,7 +61,7 @@ html {
         `}</style>
       </head>
       <body className={inter.className}>
-        <SharedLayout>{children}</SharedLayout>
+        {children} {/* Directly render children */}
       </body>
     </html>
   )
