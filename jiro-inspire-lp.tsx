@@ -168,7 +168,7 @@ export default function JiroInspireLP() {
   const reviewsByCategory = {
     ラーメンフリークの皆様: reviews.filter((r) => r.category === "ラーメンフリークの皆様"),
     お家族でご購入の皆様: reviews.filter((r) => r.category === "お家族でご購入の皆様"),
-    女性でご購入頂いた皆様: reviews.filter((r) => r.category === "女性でご購入頂いた皆様"),
+    女性のお客様からのお声: reviews.filter((r) => r.category === "女性でご購入頂いた皆様"), // Changed key
   }
 
   return (
