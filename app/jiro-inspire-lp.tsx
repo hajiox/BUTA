@@ -59,7 +59,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-x2gVegn9nceBY4aftT9fgFc1AgrGc1.png", // 家族イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-x2gVegn9nceBY4aftT9fgFc1AgrGc1.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -69,7 +69,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-x2gVegn9nceBY4aftT9fgFc1AgrGc1.png", // 家族イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-x2gVegn9nceBY4aftT9fgFc1AgrGc1.png", // 家族イラスト
     },
     {
       source: "楽天",
@@ -168,7 +168,7 @@ export default function JiroInspireLP() {
   const reviewsByCategory = {
     ラーメンフリークの皆様: reviews.filter((r) => r.category === "ラーメンフリークの皆様"),
     お家族でご購入の皆様: reviews.filter((r) => r.category === "お家族でご購入の皆様"),
-    女性のお客様からのお声: reviews.filter((r) => r.category === "女性でご購入頂いた皆様"), // Changed key
+    女性のお客様からのお声: reviews.filter((r) => r.category === "女性でご購入頂いた皆様"),
   }
 
   return (
