@@ -193,10 +193,10 @@ export default function JiroInspireLP() {
         <section className="relative">
           <div className="relative h-[60vh] md:h-[70vh]">
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-8i9tNF8oJTudOoVsRSz5ZkgXYTle7r.jpeg"
+              src="/images/main-visual-mobile.jpg"
               alt="パーフェクトラーメンBUTA【S】- 二郎インスパイア系ラーメン"
               fill
-              className="object-contain md:object-cover"
+              className="object-cover object-center"
               priority
             />
           </div>
