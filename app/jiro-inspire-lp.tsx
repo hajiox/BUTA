@@ -192,7 +192,7 @@ export default function JiroInspireLP() {
         {/* メインビジュアル */}
         <section className="relative">
           <div className="relative h-[60vh] md:h-[70vh]">
-            <div className="w-full h-full scale-[0.8] md:scale-100">
+            <div className="w-full h-full" style={{ transform: 'scale(0.8)' }}>
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E8%87%AA%E7%A4%BE%E6%92%AE%E5%BD%B1%E3%83%A1%E3%82%A4%E3%83%B3%EF%BC%88%E5%B0%8F%EF%BC%89.jpg-0ueWbdkPealWIl2KsItYU9z0zGW91X.jpeg"
                 alt="パーフェクトラーメンBUTA【S】- 二郎インスパイア系ラーメン"
@@ -202,6 +202,13 @@ export default function JiroInspireLP() {
               />
             </div>
           </div>
+          <style jsx>{`
+            @media (min-width: 768px) {
+              div[style*="scale(0.8)"] {
+                transform: scale(1) !important;
+              }
+            }
+          `}</style>
         </section>
 
         {/* メインコピー */}
