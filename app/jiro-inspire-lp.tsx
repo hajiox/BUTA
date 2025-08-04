@@ -191,13 +191,13 @@ export default function JiroInspireLP() {
       <main className="flex-grow">
         {/* メインビジュアル */}
         <section className="relative">
-          <div className="relative h-[60vh] md:h-[70vh] overflow-hidden">
-            <div className="absolute inset-0 flex items-center justify-center p-4 md:p-0">
+          <div className="relative h-[60vh] md:h-[70vh]">
+            <div className="w-full h-full scale-[0.8] md:scale-100">
               <Image
                 src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E8%87%AA%E7%A4%BE%E6%92%AE%E5%BD%B1%E3%83%A1%E3%82%A4%E3%83%B3%EF%BC%88%E5%B0%8F%EF%BC%89.jpg-0ueWbdkPealWIl2KsItYU9z0zGW91X.jpeg"
                 alt="パーフェクトラーメンBUTA【S】- 二郎インスパイア系ラーメン"
                 fill
-                className="object-contain md:object-cover"
+                className="object-cover object-center"
                 priority
               />
             </div>
