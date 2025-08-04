@@ -196,7 +196,7 @@ export default function JiroInspireLP() {
               src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E8%87%AA%E7%A4%BE%E6%92%AE%E5%BD%B1%E3%83%A1%E3%82%A4%E3%83%B3%EF%BC%88%E5%B0%8F%EF%BC%89.jpg-0ueWbdkPealWIl2KsItYU9z0zGW91X.jpeg"
               alt="パーフェクトラーメンBUTA【S】- 二郎インスパイア系ラーメン"
               fill
-              className="object-cover object-center"
+              className="object-cover object-center md:object-cover md:object-center scale-90 md:scale-100"
               priority
             />
           </div>
