@@ -16,7 +16,7 @@ export default function JiroInspireLP() {
       comment:
         "早いもので、二郎歴40年を超えた今でも、夜な夜なインスパイアぽい品を見つけては取り寄せているメタボ一歩手前の者だが、本品は多少麺がツルッとしており、なんと言ってもスープが作り込んでありとても美味かった。個人的にはパサついてある方が好みだが、これはこれで中々の逸品だ。",
       rating: 4,
-      name: "ラーメンフリーク",
+      name: "お客様",
       category: "ラーメンフリークの皆様",
       avatar:
         "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-pH659VvFb7HK4ud6RzC0Saw0tWx30u.jpeg", // 男性イラスト
