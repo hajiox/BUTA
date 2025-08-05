@@ -177,11 +177,20 @@ export default function JiroInspireLP() {
         {/* メインビジュアル */}
         <section className="relative">
           <div className="relative h-[60vh] md:h-[70vh]">
+            {/* PC用画像 */}
             <Image
               src="/images/main-visual.jpg"
               alt="パーフェクトラーメンBUTA【S】- 二郎インスパイア系ラーメン"
               fill
-              className="object-cover object-center"
+              className="object-cover object-center hidden md:block"
+              priority
+            />
+            {/* スマホ用画像 */}
+            <Image
+              src="/images/main-visual-mobile.jpeg"
+              alt="パーフェクトラーメンBUTA【S】- 二郎インスパイア系ラーメン"
+              fill
+              className="object-cover object-center md:hidden"
               priority
             />
           </div>
