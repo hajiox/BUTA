@@ -39,7 +39,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "ラーメンフリークの皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-pH659VvFb7HK4ud6RzC0Saw0tWx30u.jpeg", // 男性イラスト
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -361,8 +361,8 @@ export default function JiroInspireLP() {
               <div className="grid md:grid-cols-2 gap-12 items-center">
                 <div className="relative aspect-[4/3] w-full">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E4%B8%80%E6%97%A5%E3%81%AB%E4%BD%9C%E3%82%8C%E3%82%8B%E6%95%B0%E3%81%AB%E3%80%81%E9%99%90%E3%82%8A%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99.jpg-CyEh9oq2ZyzL0zDxrKThrjUsBmqsp4.jpeg"
-                    alt="一日に作れる数に、限りがあります"
+                    src="/images/limited-production-new.jpg"
+                    alt="プロ仕様の厨房で手作りされるラーメン"
                     fill
                     className="object-cover rounded-lg shadow-lg"
                   />
