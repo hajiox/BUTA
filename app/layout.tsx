@@ -1,13 +1,10 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { GeistSans } from "geist/font/sans"
-import { GeistMono } from "geist/font/mono"
 import "./globals.css"
-// import SharedLayout from "@/components/shared-layout" // Removed SharedLayout import
 
 import { Inter } from "next/font/google"
 
-const inter = Inter({ subsets: ["latin"] })
+const inter = Inter({ subsets: ["latin"], variable: "--font-inter" })
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://your-domain.com"),
@@ -36,7 +33,7 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="ja">
+    <html lang="ja" className={inter.variable}>
       <head>
         <script async src="https://www.googletagmanager.com/gtag/js?id=G-2EJ6JCB9N2"></script>
         <script
@@ -52,17 +49,8 @@ export default function RootLayout({
         <link rel="canonical" href="https://your-domain.com" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <meta name="theme-color" content="#ffffff" />
-        <style>{`
-html {
-  font-family: ${GeistSans.style.fontFamily};
-  --font-sans: ${GeistSans.variable};
-  --font-mono: ${GeistMono.variable};
-}
-        `}</style>
       </head>
-      <body className={inter.className}>
-        {children} {/* Directly render children */}
-      </body>
+      <body className={inter.className}>{children}</body>
     </html>
   )
 }

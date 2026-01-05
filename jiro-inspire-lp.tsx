@@ -19,7 +19,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "ラーメンフリークの皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-pH659VvFb7HK4ud6RzC0Saw0tWx30u.jpeg", // 男性イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg", // 男性イラスト
     },
     {
       source: "楽天",
@@ -29,7 +29,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "ラーメンフリークの皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E7%94%B7%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-pH659VvFb7HK4ud6RzC0Saw0tWx30u.jpeg", // 男性イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e7-94-b7-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg", // 男性イラスト
     },
     {
       source: "Yahoo",
@@ -39,7 +39,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "ラーメンフリークの皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e5-ae-b6-e6-97-8f-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-29.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -49,7 +49,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e5-ae-b6-e6-97-8f-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-29.png", // 家族イラスト
     },
     {
       source: "楽天",
@@ -59,7 +59,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e5-ae-b6-e6-97-8f-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-29.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -69,7 +69,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e5-ae-b6-e6-97-8f-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-29.png", // 家族イラスト
     },
     {
       source: "楽天",
@@ -79,7 +79,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "お家族でご購入の皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%AE%B6%E6%97%8F%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%29-kxEEKag6dEjL37n87VqrTTQLoB6FKe.png", // 家族イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e5-ae-b6-e6-97-8f-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-29.png", // 家族イラスト
     },
     {
       source: "Yahoo",
@@ -89,7 +89,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "女性でご購入頂いた皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%A5%B3%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-AoQe3Vs1cMI0ioKCJqeZVg5UDoK5NR.jpeg", // 女性イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e5-a5-b3-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg", // 女性イラスト
     },
     {
       source: "楽天",
@@ -99,7 +99,7 @@ export default function JiroInspireLP() {
       name: "お客様",
       category: "女性でご購入頂いた皆様",
       avatar:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%81%8A%E5%AE%A2%E6%A7%98%E3%81%AE%E5%A3%B0%E5%A5%B3%E6%80%A7%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88%EF%BC%88AI%EF%BC%89.jpg-AoQe3Vs1cMI0ioKCJqeZVg5UDoK5NR.jpeg", // 女性イラスト
+        "/images/e3-81-8a-e5-ae-a2-e6-a7-98-e3-81-ae-e5-a3-b0-e5-a5-b3-e6-80-a7-e3-82-a4-e3-83-a9-e3-82-b9-e3-83-88-ef-bc-88ai-ef-bc-89.jpeg", // 女性イラスト
     },
   ]
 
@@ -115,8 +115,7 @@ export default function JiroInspireLP() {
       description: "麺とスープ×2食",
       note: "先ずお試しにどうぞ",
       price: "1,250円（税・送料込）",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E2%E9%A3%9F.jpg-sg93moNHyCMeUpegel7V2yMSZqbtlK.jpeg",
+      image: "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e2-e9-a3-9f.jpeg",
     },
     {
       id: "6set",
@@ -125,8 +124,7 @@ export default function JiroInspireLP() {
       description: "麺とスープ×6食",
       note: "リピーターの皆さまへ",
       price: "3,300円（税・送料込）",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E6%E9%A3%9F.jpg-rg1Zdem79PGi5yuTMghXvOlrdqMsCm.jpeg",
+      image: "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e6-e9-a3-9f.jpeg",
     },
     {
       id: "chashu",
@@ -134,10 +132,10 @@ export default function JiroInspireLP() {
       subtitle: "パーフェクトラーメンBUTA【S】1食チャーシュー付き",
       description: "麺とスープとチャーシュー×1食",
       note: "極厚チャーシュー付きで満足度大",
-      price: "740円（税込）送料別途",
+      price: "790円（税込）送料別途",
       extraNote: "2個まで全国一律300円",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B7%E3%83%A5%E3%83%BC%E4%BB%98%E3%81%8D%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E1%E9%A3%9F.jpg-TIhdOGXtEimStFFngGozhhRurtHKAw.jpeg",
+        "/images/e3-83-81-e3-83-a3-e3-83-bc-e3-82-b7-e3-83-a5-e3-83-bc-e4-bb-98-e3-81-8d-e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e1-e9-a3-9f.jpeg",
     },
   ]
 
@@ -147,21 +145,21 @@ export default function JiroInspireLP() {
       description: "135ccの大容量スープ5食セット",
       price: "1,500円（税・送料込）",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E%E3%82%B9%E3%83%BC%E3%83%97%E3%81%AE%E3%81%BF5%E9%A3%9F.jpg-w4rU6X14o5Dyr1EAUawfuBBLCJIXcz.jpeg",
+        "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e-e3-82-b9-e3-83-bc-e3-83-97-e3-81-ae-e3-81-bf5-e9-a3-9f.jpeg",
     },
     {
       title: "オーション麺のみ",
       description: "200g×4食",
       price: "1,045円（税・送料込）",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E9%BA%BA%E3%81%AE%E3%81%BF4%E9%A3%9F.jpg-Z5BTD6r8yhW8dMuxe9q6fjPMXcVaXD.jpeg",
+        "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e-e3-82-aa-e3-83-bc-e3-82-b7-e3-83-a7-e3-83-b3-e9-ba-ba-e3-81-ae-e3-81-bf4-e9-a3-9f.jpeg",
     },
     {
       title: "国産背脂",
       description: "80ｇ×8個",
       price: "1,250円（税・送料込）",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%8C%E9%83%8E%E8%83%8C%E8%84%82%E3%81%AE%E3%81%BF8%E9%A3%9F.jpg-vp5kH46cZFPJPBgH9pVs4YPERFE34o.jpeg",
+        "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e-e8-83-8c-e8-84-82-e3-81-ae-e3-81-bf8-e9-a3-9f.jpeg",
     },
   ]
 
@@ -177,7 +175,7 @@ export default function JiroInspireLP() {
       <header className="bg-white py-6">
         <div className="container mx-auto px-4 flex justify-center items-center">
           <Image
-            src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%80%90%E9%AB%98%E8%A7%A3%E5%83%8F%E5%BA%A6%E3%80%91%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%A4%A8%E6%96%B0%E3%83%AD%E3%82%B4%E3%80%90%E9%BB%92%E3%80%91.jpg-jGJwCa3HfNXU3pXG4DdPG8tGgUUWid.jpeg"
+            src="/images/e3-80-90-e9-ab-98-e8-a7-a3-e5-83-8f-e5-ba-a6-e3-80-91-e3-83-96-e3-83-a9-e3-83-b3-e3-83-89-e9-a4-a8-e6-96-b0-e3-83-ad-e3-82-b4-e3-80-90-e9-bb-92-e3-80-91.jpeg"
             alt="AIZU BRAND HALL"
             width={200}
             height={200}
@@ -203,7 +201,7 @@ export default function JiroInspireLP() {
               height={1080}
             />
             <Image
-              src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%93%E3%82%B8%E3%83%A5%E3%82%A2%E3%83%AB_%E3%82%A2%E3%83%BC%E3%83%88%E3%83%9C%E3%83%BC%E3%83%89%201.jpg-8i9tNF8oJTudOoVsRSz5ZkgXYTle7r.jpeg"
+              src="/images/e3-83-a1-e3-82-a4-e3-83-b3-e3-83-93-e3-82-b8-e3-83-a5-e3-82-a2-e3-83-ab-e3-82-a2-e3-83-bc-e3-83-88-e3-83-9c-e3-83-bc-e3-83-89-201.jpeg"
               alt="パーフェクトラーメンBUTA【S】- 二郎インスパイア系ラーメン"
               fill
               className="object-cover object-center hidden md:block"
@@ -268,14 +266,14 @@ export default function JiroInspireLP() {
             </div>
             <div className="flex flex-col md:flex-row justify-center items-center gap-8">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%EF%BC%91%E4%BD%8D.jpg-QWSOBDSb48aW2Nf6mgSvpE4RFSNpfT.jpeg"
+                src="/images/e6-a5-bd-e5-a4-a9-ef-bc-91-e4-bd-8d.jpeg"
                 alt="楽天ランキング1位獲得"
                 width={400}
                 height={132}
                 className="w-96 h-auto"
               />
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Yahoo%EF%BC%91%E4%BD%8D.jpg-RRp1ZXluFZvl9jCtzbAJOzWSyG1sLn.jpeg"
+                src="/images/yahoo-ef-bc-91-e4-bd-8d.jpeg"
                 alt="Yahoo!ショッピングカテゴリランキング1位獲得"
                 width={400}
                 height={132}
@@ -293,7 +291,7 @@ export default function JiroInspireLP() {
               <div className="grid md:grid-cols-2 gap-12 items-center">
                 <div className="relative aspect-[4/3] w-full">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E3%82%B9%E3%83%BC%E3%83%97-01.jpg-IioZe7CtKJYYNkHsAZejCmJrZXGGSb.jpeg"
+                    src="/images/e3-82-b9-e3-83-bc-e3-83-97-01.jpeg"
                     alt="エキス不使用の本物素材が奏でる旨味"
                     fill
                     className="object-cover rounded-lg shadow-lg"
@@ -343,7 +341,7 @@ export default function JiroInspireLP() {
                 </div>
                 <div className="relative aspect-[4/3] w-full md:order-1">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E9%BA%BA-01.jpg-YYrbAxESAKEw4P6pdi3c3bSDkRTd3D.jpeg"
+                    src="/images/e9-ba-ba-01.jpeg"
                     alt="噛むほどに快感、極太ワシワシ麺"
                     fill
                     className="object-cover rounded-lg shadow-lg"
@@ -364,7 +362,7 @@ export default function JiroInspireLP() {
                     src="/images/limited-production-new.jpg"
                     alt="プロ仕様の厨房で手作りされるラーメン"
                     fill
-                    className="object-cover rounded-lg shadow-lg"
+                    className="object-cover rounded-lg"
                   />
                 </div>
                 <div className="space-y-6">
@@ -399,7 +397,7 @@ export default function JiroInspireLP() {
               <div className="grid md:grid-cols-2 gap-8 items-center">
                 <div className="relative aspect-[3/1] w-full">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E9%80%81%E6%96%99%E7%84%A1%E6%96%99-01.jpg-7w5x12TQMEU3igAn9Jw8vNhpX1R7VT.jpeg"
+                    src="/images/e9-80-81-e6-96-99-e7-84-a1-e6-96-99-01.jpeg"
                     alt="送料無料"
                     fill
                     className="object-contain"
@@ -407,7 +405,7 @@ export default function JiroInspireLP() {
                 </div>
                 <div className="relative aspect-[3/1] w-full">
                   <Image
-                    src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E5%8D%B3%E6%97%A5%E7%99%BA%E9%80%81-01.jpg-gvsHqMx1KYEAFJpKHnRUGkVqb2MckI.jpeg"
+                    src="/images/e5-8d-b3-e6-97-a5-e7-99-ba-e9-80-81-01.jpeg"
                     alt="即日配送"
                     fill
                     className="object-contain"
@@ -558,7 +556,7 @@ export default function JiroInspireLP() {
                 >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/yahoo%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-MEP8aX6vdnhkm0MalTPsgcj8jbQqA0.png"
+                      src="/images/yahoo-e8-b3-bc-e5-85-a5-e3-83-9c-e3-82-bf-e3-83-b3-01.png"
                       alt="Yahoo!ショッピング"
                       width={200}
                       height={200}
@@ -583,7 +581,7 @@ export default function JiroInspireLP() {
                 >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E6%A5%BD%E5%A4%A9%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-991Pc669KycdDKQBzO5S93EuS2I3kg.png"
+                      src="/images/e6-a5-bd-e5-a4-a9-e8-b3-bc-e5-85-a5-e3-83-9c-e3-82-bf-e3-83-b3-01.png"
                       alt="楽天市場"
                       width={200}
                       height={200}
@@ -608,7 +606,7 @@ export default function JiroInspireLP() {
                 >
                   <div className="bg-white p-4 mx-auto max-w-[200px] aspect-square flex flex-col items-center justify-center rounded-lg border-2 border-gray-200 hover:shadow-lg transition-shadow mb-4">
                     <Image
-                      src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Amazon%E8%B3%BC%E5%85%A5%E3%83%9C%E3%82%BF%E3%83%B3-01-mAXYlXivqE7kA5DfbJhHMDX5hkPVNJ.png"
+                      src="/images/amazon-e8-b3-bc-e5-85-a5-e3-83-9c-e3-82-bf-e3-83-b3-01.png"
                       alt="Amazon"
                       width={200}
                       height={200}
@@ -633,7 +631,7 @@ export default function JiroInspireLP() {
           <div className="grid md:grid-cols-2 gap-8 items-start max-w-5xl mx-auto">
             <div className="relative aspect-[4/3] w-full">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/%E4%BC%9A%E6%B4%A5%E3%83%96%E3%83%A9%E3%83%B3%E3%83%89%E9%A4%A8%E5%A4%96%E8%A6%B3.jpg-hdBx2FWtl4J7SGIDg4UzsDTfZJ0HVP.jpeg"
+                src="/images/e4-bc-9a-e6-b4-a5-e3-83-96-e3-83-a9-e3-83-b3-e3-83-89-e9-a4-a8-e5-a4-96-e8-a6-b3.jpeg"
                 alt="会津ブランド館 店舗外観"
                 fill
                 className="object-cover rounded-lg"
