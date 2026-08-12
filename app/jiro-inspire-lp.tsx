@@ -105,7 +105,7 @@ export default function JiroInspireLP() {
       subtitle: "パーフェクトラーメンBUTA【S】2食セット",
       description: "麺とスープ×2食",
       note: "先ずお試しにどうぞ",
-      price: "1,250円（税・送料込）",
+      price: "1,299円（税・送料込）",
       image: "/images/ramen-2set.jpg",
     },
     {
@@ -114,7 +114,7 @@ export default function JiroInspireLP() {
       subtitle: "パーフェクトラーメンBUTA【S】6食セット",
       description: "麺とスープ×6食",
       note: "リピーターの皆さまへ",
-      price: "3,300円（税・送料込）",
+      price: "3,399円（税・送料込）",
       image: "/images/ramen-6set.jpg",
     },
     {
@@ -123,7 +123,7 @@ export default function JiroInspireLP() {
       subtitle: "パーフェクトラーメンBUTA【S】1食チャーシュー付き",
       description: "麺とスープとチャーシュー×1食",
       note: "極厚チャーシュー付きで満足度大",
-      price: "740円（税込）送料別途",
+      price: "829円（税込）送料別途",
       extraNote: "2個まで全国一律300円",
       image: "/images/ramen-chashu.jpg",
     },

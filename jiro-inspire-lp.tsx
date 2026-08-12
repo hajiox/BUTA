@@ -114,7 +114,7 @@ export default function JiroInspireLP() {
       subtitle: "パーフェクトラーメンBUTA【S】2食セット",
       description: "麺とスープ×2食",
       note: "先ずお試しにどうぞ",
-      price: "1,250円（税・送料込）",
+      price: "1,299円（税・送料込）",
       image: "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e2-e9-a3-9f.jpeg",
     },
     {
@@ -123,7 +123,7 @@ export default function JiroInspireLP() {
       subtitle: "パーフェクトラーメンBUTA【S】6食セット",
       description: "麺とスープ×6食",
       note: "リピーターの皆さまへ",
-      price: "3,300円（税・送料込）",
+      price: "3,399円（税・送料込）",
       image: "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e6-e9-a3-9f.jpeg",
     },
     {
@@ -132,7 +132,7 @@ export default function JiroInspireLP() {
       subtitle: "パーフェクトラーメンBUTA【S】1食チャーシュー付き",
       description: "麺とスープとチャーシュー×1食",
       note: "極厚チャーシュー付きで満足度大",
-      price: "790円（税込）送料別途",
+      price: "829円（税込）送料別途",
       extraNote: "2個まで全国一律300円",
       image:
         "/images/e3-83-81-e3-83-a3-e3-83-bc-e3-82-b7-e3-83-a5-e3-83-bc-e4-bb-98-e3-81-8d-e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e1-e9-a3-9f.jpeg",
