@@ -2,7 +2,7 @@ import type { Metadata } from "next"
 import JiroInspireLP from "../jiro-inspire-lp"
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://buta.aizubrandhall-lp2.com"), // 本番環境のドメインに置き換えてください
+  metadataBase: new URL("https://buta.aizubrandhall-lp2.com"),
   title: {
     default: "【公式】パーフェクトラーメンBUTA【S】｜自宅で本格二郎系インスパイアラーメン通販・お取り寄せ",
     template: "%s | 会津ブランド館",
@@ -23,19 +23,18 @@ export const metadata: Metadata = {
     title: "パーフェクトラーメンBUTA【S】｜自宅で味わう本格二郎系インスパイアラーメン",
     description:
       "ご自宅で人気の二郎系インスパイアラーメンを！日清製粉オーション麺と濃厚豚骨スープ、極厚チャーシューで再現。マニアも納得の本格派。2食セット1,299円から全国送料無料でお届け。",
-    url: "https://buta.aizubrandhall-lp2.com", // 本番環境のドメインに置き換えてください
+    url: "https://buta.aizubrandhall-lp2.com",
     siteName: "会津ブランド館",
     images: [
       {
         url: "/images/ogp-ramen.jpg", // publicディレクトリからの相対パス
-        width: 1200,
-        height: 630,
+        width: 1217,
+        height: 647,
         alt: "極厚チャーシュー、もやし、ニンニクが乗った二郎系インスパイアラーメン",
         type: "image/jpeg",
       },
     ],
     locale: "ja_JP",
-    appId: "YOUR_FACEBOOK_APP_ID", // Facebook開発者サイトで取得したApp IDに置き換えてください
     type: "website",
   },
   twitter: {
@@ -49,8 +48,8 @@ export const metadata: Metadata = {
       {
         url: "/images/ogp-ramen.jpg", // publicディレクトリからの相対パス
         alt: "極厚チャーシュー、もやし、ニンニクが乗った二郎系インスパイアラーメン",
-        width: 1200,
-        height: 630,
+        width: 1217,
+        height: 647,
       },
     ],
   },
@@ -71,7 +70,7 @@ export const metadata: Metadata = {
     google: "your-google-verification-code", // 必要に応じて設定してください
   },
   alternates: {
-    canonical: "https://buta.aizubrandhall-lp2.com", // 本番環境のドメインに置き換えてください
+    canonical: "https://buta.aizubrandhall-lp2.com",
   },
   category: "food",
   classification: "ラーメン通販",
