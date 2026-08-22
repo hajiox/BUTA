@@ -150,7 +150,7 @@ export default function JiroInspireLP() {
     {
       title: "オーション麺のみ",
       description: "200g×4食",
-      price: "1,045円（税・送料込）",
+      price: "1,080円（税・送料込）",
       image:
         "/images/e3-83-a9-e3-83-bc-e3-83-a1-e3-83-b3-e4-ba-8c-e9-83-8e-e3-82-aa-e3-83-bc-e3-82-b7-e3-83-a7-e3-83-b3-e9-ba-ba-e3-81-ae-e3-81-bf4-e9-a3-9f.jpeg",
     },
