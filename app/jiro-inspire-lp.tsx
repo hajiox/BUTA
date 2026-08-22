@@ -139,7 +139,7 @@ export default function JiroInspireLP() {
     {
       title: "オーション麺のみ",
       description: "200g×4食",
-      price: "1,045円（税・送料込）",
+      price: "1,080円（税・送料込）",
       image: "/images/ramen-noodle-only.jpg",
     },
     {
